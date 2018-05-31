@@ -1,0 +1,26 @@
+/*estilos de fondo e imagen*/
+
+.fondo {background:url(../imagenes/fondos/f21.jpg);
+      
+      background-attachment: fixed;
+     }
+
+.negro {
+	   background-color: #545454;
+     }
+    
+h3 {color:white}
+h2 {color:black}
+li {color:white}
+
+.block{
+	font-family: Cooper Black;
+}
+#fade
+{
+        opacity:2;
+}
+#fade:hover
+{
+        opacity:0.5;
+}

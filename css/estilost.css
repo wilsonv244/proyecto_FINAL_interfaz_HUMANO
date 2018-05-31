@@ -1,0 +1,13 @@
+/*para el fonde del hotel */
+.fondo {background:url(../imagenes/fondos/777425.jpg);
+      
+      background-attachment: fixed;
+      background-position: center;
+      align-content: center;
+     }
+.comidas{
+	margin: 150px;
+}
+.row_featurette{
+	margin: 100px;
+}

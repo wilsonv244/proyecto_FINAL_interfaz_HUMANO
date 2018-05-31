@@ -1,0 +1,14 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+.buscar{
+	font-family: Forte;
+	text-align: center;
+}
+.contaier{
+
+}
+.hola{
+	background-image: url("file:///C:/wamp/www/WilsonTDA/imagenes/buscar.jpg");
+}

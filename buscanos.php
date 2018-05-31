@@ -48,7 +48,11 @@
 			</ul>
 		</div>
 	</div>
+	
 	</nav>
+
+
+
 	<div class="container"  style="text-align: center; background-color: transparent;">
 
       <div class="starter-template" id="buscar">
@@ -57,6 +61,8 @@
         <p>
         	<a href="wilsonwindows123@gmail.com">Escribamos si tienes un inconveniente en encontrarnos</a>
         </p>
+
+
 
         	<div > <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4117.841012193533!2d-70.02578159502413!3d-15.836377428781434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915d6985f4e74135%3A0x1e341dd8f24d32cf!2sPuno!5e0!3m2!1ses!2spe!4v1512654105676" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         	</div>

@@ -225,7 +225,7 @@
         
           <font face="Cooper Black" color="white"><h2 class="featurette-heading"><p style="padding-left: 100px">Restaurants. <span class="text-muted">Una gran variedad de comida peruana.</span></h2></p> </font>
           <font face="Constantia" color="white"><p class="lead" style="padding-left: 100px">Una opción diferente con personalidad propia, informal y relajada, donde encontrará el mejor valor por su dinero, ubicado en el primero piso del hotel..</p></font>
-      <font face="Cooper Black"><p align="center"><a class="btn btn-primary btn-lg" href="registro_food.php" role="button">Comprar</a></p></font> 
+      <font face="Cooper Black"><p align="center"><a class="btn btn-primary btn-lg" href="registro_food.php" role="button">Comprar U Ordenar</a></p></font> 
           
         </div>
         <div class="col-md-7">

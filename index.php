@@ -43,7 +43,7 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Restaurant</a></li>
+						<li><a href="#">Restaurant comidas deliciosas</a></li>
 						<li><a href="#">Carta</a></li>
 						<li><a href="#">Eventos</a></li>
 						<li><a href="#">Servicios especiales</a></li>

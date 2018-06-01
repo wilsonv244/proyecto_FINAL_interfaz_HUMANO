@@ -14,7 +14,14 @@
     <link rel="stylesheet" type="text/css" href="css/sociales.css">
     <link rel="stylesheet" type="text/css" href="Rsociales/style.css">
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
-
+    <style type="text/css">
+       div>img {
+        width:100%;
+       }
+       div>a>img {
+        width:100%;
+       }
+</style>
 </head>
 <body class="fondo">
     <!-BARRA DE LA TIENDA->
@@ -319,11 +326,15 @@
 </div>
            
            <div class="container">
-             <h2 style="color: white; font-family: AR DELANEY; font-size: 280%;" align="center">Apps Populares</h2> 
+             <h2 style="color: white; font-family: AR DELANEY; font-size: 280%; border-style: ridge;padding: 1%;
+    border-color: coral;
+    border-width: 7px;" align="center">Apps Populares</h2> 
            </div>
            
-      <hr width="100%" >
-      <div style="background-color: white"><br>
+      
+      <div style="background-color: white; border-style: ridge;
+    border-color: coral;
+    border-width: 7px;"><br>
       <div class="container">
             <div class="row" style="color: white">
              <div class="col-md-2">
@@ -535,21 +546,23 @@
       </div>
       <br>
       </div>
-      <hr width="100%">
-      <br>   
-                <a href="pagmusica.php"><img src="imagenes/portada/f26.png" height="200" class="img-responsive img-rounded" alt=""/></a>        
-
+    
+      <br>   <div>
+                <a href="pagmusica.php"><img src="imagenes/portada/f26.png" height="200" class="img-responsive img-rounded" alt=""/></a>
+             </div>
        <div id="block" data-vide-bg="video/VI8" data-vide-options="muted: false, position: 0% 0%," >
-            <br><br><br><br><br><br>      
+              
              <br>
               <div class="row">      
                <div class="col-md-12">
                   <h2 style="color: white; font-family:AR DELANEY; font-size: 280%;" align="center">Lo Mas Descargado De Spotify</h2>  
                </div>
               </div>
-          <hr width="90%">
+       
           <div class="container">
-            <div class="row">
+            <div class="row" style="border-style: ridge;
+    border-color: coral;
+    border-width: 7px;"><br>
              <div class="col-md-2">
                    <img src="imagenes/artistas/a1.jpg" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
@@ -582,33 +595,25 @@
              </div>
             </div>
       </div>
-      <hr width="90%">
       <br><br>
-      <div class="row">
-                  <div class="col-md-4">                             
-                  <img src="imagenes/portada/f24.png" height="200" class="img-responsive img-rounded" alt=""/>
-                  </div>                                                
-                  <div class="col-md-4">                                 
-                  </div>                                            
-                  <div class="col-md-4">
-                   <img src="imagenes/Wilson-Hotel-logo-web.png"  class="img-responsive img-rounded" alt=""/>                              
-                  </div>                      
-            </div>                        
+                         
        </div> 
-              
-                <a href="pagvideojuegos.php"><img src="imagenes/portada/f27.png" height="200" class="img-responsive img-rounded" alt=""/></a>    
-                
+              <div>
+                <a href="pagvideojuegos.php"><img src="imagenes/portada/f27.png" height="200" class="img-responsive img-rounded" alt=""/></a>
+              </div>
 <div id="block" data-vide-bg="video/VI10" data-vide-options="muted: true, position: 0% 0%," >
-            <br><br><br><br><br><br>      
+            <br><br><br>    
              <br>
               <div class="row">      
                <div class="col-md-12">
                   <h2 style="color: white; font-family: Cooper Black; font-size: 280%;"; align="center">Comprar Juegos De Steam</h2>  
                </div>
               </div>
-          <hr width="90%">
+        
           <div class="container">
-            <div class="row">
+            <div class="row" style=" border-style: ridge;
+    border-color: coral;
+    border-width: 7px;"><br>
              <div class="col-md-2">
                    <img src="imagenes/artistas/j1.jpg" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
@@ -641,10 +646,10 @@
              </div>
             </div>
       </div>
-      <hr width="90%">
 
       <br><br>
-      <div class="row">
+      <div class="container">
+        <div class="row">
                   <div class="col-md-4">                             
                   <img src="imagenes/portada/f28.png" height="200" class="img-responsive img-rounded" alt=""/>
                   </div>                                                
@@ -653,11 +658,13 @@
                   <div class="col-md-4">
                    <img src="imagenes/Wilson-Hotel-logo-web.png"  class="img-responsive img-rounded" alt=""/>                              
                   </div>                      
-            </div>                        
-       </div>
+      </div>   
+      </div>
+                           
+      </div>
 
       <br><br><br><br><br>
-      <div class="container">
+      <div class="container" >
         <p style="color: white; font-family: AR BERKLEY; font-size: 180%;" align="center">
                 Un gestor (o administrador o acelerador) de descargas es un programa diseñado para descargar archivos de Internet, ayudado de distintos medios como algoritmos o formas más sencillas, para ir pausando y reanudando las descargas de algún servidor FTP o página de Internet. Es muy recomendable su utilización cuando se trata de archivos grandes, tales como imágenes ISO; programas; vídeos; música; etc.
 

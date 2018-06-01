@@ -26,10 +26,16 @@
 	}(document, 'script', 'facebook-jssdk'));</script>
 	<div class="ctn-data">
 
-	
-	<div class="ctn-lbl-comentar"><label class="lbl-comentar">Comentarios</labe></div>
-		<div  class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="1000" data-numposts="4"></div>
+	<div class="container">
+		<div class="row" style="background-color: white; border-style: ridge;
+    border-color: coral;
+    border-width: 7px;">
+			<div class="ctn-lbl-comentar"><label class="lbl-comentar">Comentarios</labe></div>
+		        <div  class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="1000" data-numposts="4"></div>
+	        </div>
+		</div>
 	</div>
+	
 
 </body>
 </html>

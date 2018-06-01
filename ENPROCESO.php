@@ -61,25 +61,25 @@
 	<div class="row">
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      <img src="imagenes\iconos\fifa.jpg" alt="...">
+      <img src="imagenes\iconos\spa.jpg" alt="...">
       <h2>Estiramiento</h2>
     </a>
   </div>
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      <img src="imagenes\iconos\fifa.jpg" alt="...">
+      <img src="imagenes\iconos\yoga2.jpg" alt="...">
       <h2>Jogging </h2>	
     </a>
   </div>
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      <img src="imagenes\iconos\fifa.jpg" alt="...">
+      <img src="imagenes\iconos\yoga10.jpg" alt="...">
       <h2>Yogga </h2>
     </a>
   </div>
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      <img src="imagenes\iconos\fifa.jpg" alt="...">
+      <img src="imagenes\iconos\meditacion.jpg" alt="...">
       <h2>Meditacion </h2>
     </a>
   </div>

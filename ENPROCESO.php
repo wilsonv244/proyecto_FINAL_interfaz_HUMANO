@@ -8,9 +8,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/miestilo.css" rel="stylesheet">
 	<link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet"/>
-
-
- 
 <script src="js/moment.min.js"></script>
  
     <!--[if lt IE 9]>
@@ -63,25 +60,25 @@
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
       <img src="imagenes\iconos\spa.jpg" alt="...">
-      <h2>Estiramiento</h2>
+      <h2>ESTIRAMIENTO</h2>
     </a>
   </div>
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
       <img src="imagenes\iconos\yoga2.jpg" alt="...">
-      <h2>Jogging </h2>	
+      <h2>JOGGING</h2>	
     </a>
   </div>
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
       <img src="imagenes\iconos\yoga10.jpg" alt="...">
-      <h2>Yogga </h2>
+      <h2>YOGGA</h2>
     </a>
   </div>
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
       <img src="imagenes\iconos\meditacion.jpg" alt="...">
-      <h2>Meditacion </h2>
+      <h2>MEDITACION</h2>
     </a>
   </div>
   ...

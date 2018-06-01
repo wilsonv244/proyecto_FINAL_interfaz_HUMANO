@@ -131,7 +131,6 @@
                    <li data-target="#carousel-example-generic" data-slide-to="18"></li>
                    <li data-target="#carousel-example-generic" data-slide-to="19"></li>
                    <li data-target="#carousel-example-generic" data-slide-to="20"></li>
-                   
                  </ol>
        <!-- Wrapper for slides -->
        <div class="carousel-inner" role="listbox">
@@ -139,7 +138,7 @@
                 <div class="item active">
                   <img src="imagenes/portada/wilsonP.png" alt="..." >
                   <div class="carousel-caption">
-                    TIENDA ONLINE WILSON
+                    TIENDA ONLINE
                   </div>
                 </div>
            
@@ -309,7 +308,7 @@
 <!CONTENIDO->
       <div style="background-color: black;">
         <div class="container">
-        <br>
+        <br><br><br>
                    <p style="color: white" align="center">
                            Un gestor (o administrador o acelerador) de descargas es un programa diseñado para descargar archivos de Internet, ayudado de distintos medios como algoritmos o formas más sencillas, para ir pausando y reanudando las descargas de algún servidor FTP o página de Internet. Es muy recomendable su utilización cuando se trata de archivos grandes, tales como imágenes ISO; programas; vídeos; música; etc.
 
@@ -320,45 +319,223 @@
 </div>
            
            <div class="container">
-             <h2 style="color: white; font-family: AR DELANEY; font-size: 280%;" align="center">Lo Mas Descargado del Día</h2> 
+             <h2 style="color: white; font-family: AR DELANEY; font-size: 280%;" align="center">Apps Populares</h2> 
            </div>
            
-      <hr width="90%">
+      <hr width="100%" >
+      <div style="background-color: white"><br>
       <div class="container">
             <div class="row" style="color: white">
              <div class="col-md-2">
                    <img src="imagenes/iconos/mario.jpg" height="250" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
-                   <h3 align="center">Mario Bross</h3>                   
+                                      
              </div>
              <div class="col-md-2">
                    <img src="imagenes/iconos/images.jpg" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="" class="btn  btn-block btn-success active">DESCARGAR</a>
-                   <h3 align="center">Call Of Dutty</h3>                  
+                                    
              </div>
              <div class="col-md-2">
                    <img src="imagenes/iconos/dota.jpg" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
-                   <h3 align="center">Dota 2</h3>                 
+                                  
              </div>
              <div class="col-md-2">
                    <img src="imagenes/iconos/minecraf.jpg" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
-                   <h3 align="center">Minecraft</h3>                  
+                                    
              </div>
              <div class="col-md-2">
                    <img src="imagenes/iconos/fifa.jpg" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
-                   <h3 align="center">Fifa 18</h3>                  
+                                    
              </div>
              <div class="col-md-2">
                    <img src="imagenes/iconos/st.png" height="200" class="img-responsive img-rounded" alt=""/>
                    <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
-                   <h3 align="center">Star Craft</h3>                  
+                                    
              </div>
             </div>
       </div>
-      <hr width="90%">
+      <br>
+      <div class="container">
+            <div class="row" style="color: white">
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p1.jpg" height="250" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                      
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p2.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p3.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                  
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p4.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p5.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p6.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+            </div>
+      </div>
+      <br>
+      <div class="container">
+            <div class="row" style="color: white">
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p7.jpg" height="250" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                      
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p8.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p9.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                  
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p10.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p11.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p12.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+            </div>
+      </div>
+      <br>
+      <div class="container">
+            <div class="row" style="color: white">
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p13.jpg" height="250" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                      
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p14.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p15.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                  
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p16.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p17.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p18.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+            </div>
+      </div>
+      <br>
+      <div class="container">
+            <div class="row" style="color: white">
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p19.jpg" height="250" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                      
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p20.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p21.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                  
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p22.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p23.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p24.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+            </div>
+      </div>
+      <br>
+      <div class="container">
+            <div class="row" style="color: white">
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p25.jpg" height="250" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                      
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p26.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p27.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                  
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p12.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p18.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+             <div class="col-md-2">
+                   <img src="imagenes/iconos/p1.jpg" height="200" class="img-responsive img-rounded" alt=""/>
+                   <a href="registroT.php" class="btn  btn-block btn-success active">DESCARGAR</a>
+                                    
+             </div>
+            </div>
+      </div>
+      <br>
+      </div>
+      <hr width="100%">
       <br>   
                 <a href="pagmusica.php"><img src="imagenes/portada/f26.png" height="200" class="img-responsive img-rounded" alt=""/></a>        
 

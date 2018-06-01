@@ -10,8 +10,6 @@
 	<link href="css/miestilo.css" rel="stylesheet">
 	<link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet"/>
 
-
- 
 <script src="js/moment.min.js"></script>
  
     <!--[if lt IE 9]>

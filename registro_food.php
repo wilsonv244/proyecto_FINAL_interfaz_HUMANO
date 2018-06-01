@@ -204,7 +204,7 @@
 		                <div class="row">
 			                <div class="col-md-8">		
 			                <h1><font face="Times New Roman">Carapulcra y Sopa Seca Chinchana</font></h1>	                
-				              <img src="imagenes/carapulcra-y-sopa-seca.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <img src="imagenes/carapulcra-y-sopa-seca-chinchana.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
 				              <br>   			
 				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
 			                  </div>

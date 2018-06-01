@@ -13,7 +13,8 @@
     <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/sociales.css">
     <link rel="stylesheet" type="text/css" href="Rsociales/style.css">
-    <link rel="stylesheet" type="text/css" href="css/estilost.css">  
+    <link rel="stylesheet" type="text/css" href="css/estilost.css">
+    
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -57,7 +58,29 @@
 	</div>
 	</nav>
 
-	
+	 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
+          <div class="modal-dialog" role="document" >
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title" id="myModalLabel" align="center" style="color: black"><b> Contactos Y Consultas</b></h3>
+              </div>
+              <div class="modal-body">
+                      <h4 align="center" style="color: #494A4A"><b>Telefono</b>: 943216543</h4>
+                      <br>
+			          <div class="input-group">
+		                <span class="input-group-addon"><i class="glyphicon glyphicon-file"></i></span>
+		                <textarea class="form-control" name="comentario" placeholder="Escribir tu Consulta" class="form-control"  rows="5">
+		                </textarea>
+			          </div>
+              </div>
+           <div class="modal-footer">
+             <button type="button" class="btn btn-danger" data-dismiss="modal">Salir</button>
+             <button type="button" class="btn btn-info">Enviar</button>
+           </div>
+         </div>
+       </div>
+       </div>
 
        <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
 				<div class="modal-dialog modal-sm" role="document">

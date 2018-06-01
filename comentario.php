@@ -30,9 +30,14 @@
 		<div class="row" style="background-color: white; border-style: ridge;
     border-color: coral;
     border-width: 7px;">
-			<div class="ctn-lbl-comentar"><label class="lbl-comentar">Comentarios</labe></div>
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+        	<div class="ctn-lbl-comentar"><label class="lbl-comentar">Comentarios</labe></div><br>
 		        <div  class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="1000" data-numposts="4"></div>
 	        </div>
+        </div>
+        <div class="col-md-1"></div>
+			
 		</div>
 	</div>
 	

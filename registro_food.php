@@ -64,7 +64,7 @@
 		                  </div>
 	                </div>
 
-			<br>
+		<br>
 	                <div class="container">
 		                <div class="row">
 			                <div class="col-md-8">
@@ -104,7 +104,121 @@
 			                  </div>
 		                  </div>
 	                </div>
-	        <br>
+              <br>    
+	                <div class="container">
+		                <div class="row">
+			                <div class="col-md-8">		
+			                <h1><font face="Times New Roman">Arroz con pollo</font></h1>	                
+				              <img src="imagenes/arrozconpollo-570x321.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <br>   			
+				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
+			                  </div>
+			                <div class="col-md-4">			
+			                <br><br>	                  
+				                   <h1><font face="Harrington">Arroz con pollo</font></h1>
+				                  
+				                  <h2><font face="Gabriola">El arroz con pollo es una receta tradicional peruana. De aspecto verde, es un plato muy sabroso debido a la variedad de ingredientes que incluye. Así, va aderezado con una zarza de cebollas, lo que potencia el sabor en gran medida.</font></h2>
+													
+				              
+			                  </div>
+		                  </div>
+	                </div>
+	     <br>    
+	                <div class="container">
+		                <div class="row">
+			                <div class="col-md-8">		
+			                <h1><font face="Times New Roman">Cau Cau</font></h1>	                
+				              <img src="imagenes/cau-cau-1440x810.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <br>   			
+				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
+			                  </div>
+			                <div class="col-md-4">			
+			                <br><br>	                  
+				                   <h1><font face="Harrington">Cau Cau</font></h1>
+				                  
+				                  <h2><font face="Gabriola"> Este plato de denominación tan original es otro de los principales de la gastronomía peruana y consiste en una mezcla de mondongo de pollo con papas amarillas. Las papas llaman la atención por la forma en que están cortadas, esto es, en cuadrados pequeños. Se cocinan con ají amarillo, perejil, cebolla y ajo.</font></h2>
+													
+				              
+			                  </div>
+		                  </div>
+	                </div>	
+	    <br>    
+	                <div class="container">
+		                <div class="row">
+			                <div class="col-md-8">		
+			                <h1><font face="Times New Roman">Ceviche</font></h1>	                
+				              <img src="imagenes/tres_tipos_ceviche-650x366.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <br>   			
+				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
+			                  </div>
+			                <div class="col-md-4">			
+			                <br><br>	                  
+				                   <h1><font face="Harrington">Ceviche</font></h1>
+				                  
+				                  <h2><font face="Gabriola"> Declarado Patrimonio Cultural de la Nación. El ceviche, también escrito cebiche, seviche o sebiche (todas las formas aceptadas por la RAE), es un plato originario de Perú, pero cuyo gran éxito ha traspasado fronteras y actualmente es típico en casi todos los países latinoamericanos litorales del Pacífico, como Colombia, Chile, Ecuador, Costa Rica, Guatemala, El Salvador, Honduras, México, Nicaragua…</font></h2>
+													
+				              
+			                  </div>
+		                  </div>
+	                </div>		
+           <br>    
+	                <div class="container">
+		                <div class="row">
+			                <div class="col-md-8">		
+			                <h1><font face="Times New Roman">Juane</font></h1>	                
+				              <img src="imagenes/juane-570x321.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <br>   			
+				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
+			                  </div>
+			                <div class="col-md-4">			
+			                <br><br>	                  
+				                   <h1><font face="Harrington">Juane</font></h1>
+				                  
+				                  <h2><font face="Gabriola"> El juane o juan es uno de los platos más representativos de la gastronomía de la Selva peruana, concretamente de la ciudad de Santiago y de Moyobamba. Es especialmente típico durante la fiesta de San Juan, que se celebra cada 24 de junio.</font></h2>
+													
+				              
+			                  </div>
+		                  </div>
+	                </div>		  
+         <br>    
+	                <div class="container">
+		                <div class="row">
+			                <div class="col-md-8">		
+			                <h1><font face="Times New Roman">Lomo Saltado</font></h1>	                
+				              <img src="imagenes/lomo-saltado-650x366.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <br>   			
+				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
+			                  </div>
+			                <div class="col-md-4">			
+			                <br><br>	                  
+				                   <h1><font face="Harrington">Lomo Saltado</font></h1>
+				                  
+				                  <h2><font face="Gabriola"> El lomo saltado es un plato que data del siglo XIX, cuando era conocido con diversas denominaciones (p. ej. lomito de vaca, lomito saltado o lomito de chorrillana). Este plato, al igual que el arroz chaufa, está muy influenciado por la cocina chino-cantonesa.</font></h2>
+													
+				              
+			                  </div>
+		                  </div>
+	                </div>
+	   <br>    
+	                <div class="container">
+		                <div class="row">
+			                <div class="col-md-8">		
+			                <h1><font face="Times New Roman">Carapulcra y Sopa Seca Chinchana</font></h1>	                
+				              <img src="imagenes/carapulcra-y-sopa-seca.jpg" height="200" class="img-responsive img-rounded" alt=""/>  
+				              <br>   			
+				                   <a href="comida.php" class="btn  btn-block btn-danger active"><font face="Cooper Black" size="6">Ordenar Ahora</font> </a>	                 
+			                  </div>
+			                <div class="col-md-4">			
+			                <br><br>	                  
+				                   <h1><font face="Harrington">Carapulcra y Sopa Seca Chinchana</font></h1>
+				                  
+				                  <h2><font face="Gabriola"> El nombre de chinchana se debe a que el origen de este plato es la provincia de Chincha, en el Departamento de Ica. No es de extrañar que este variado plato proceda de esta zona de Perú, puesto que es uno de los lugares con más mestizaje en el país.</font></h2>
+													
+				              
+			                  </div>
+		                  </div>
+	                </div>		
+	   <br>
 	                <div class="container">
 		                <div class="row">
 			                <div class="col-md-8">
